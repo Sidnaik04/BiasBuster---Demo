@@ -1,0 +1,12 @@
+ipykernel
+numpy
+pandas
+openpyxl
+matplotlib
+seaborn
+scikit-learn
+plotly
+fairlearn
+imbalanced-learn
+joblib
+xgboost
